@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mahjong</string>
+    <string name="person1">P1</string>
+    <string name="person2">P2</string>
+    <string name="person3">P3</string>
+    <string name="person4">P4</string>
+</resources>
